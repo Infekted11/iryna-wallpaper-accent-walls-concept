@@ -1,0 +1,17 @@
+IRYNA WALLPAPER & ACCENT WALLS — LOCAL CONCEPT
+
+Launch on macOS: double-click preview.command, then visit http://127.0.0.1:4187
+Or in Terminal from this folder:
+python3 -m http.server 4187 --bind 127.0.0.1
+Keep the terminal window open; Control-C stops the server.
+If port 4187 is occupied, use 4188 instead and visit http://127.0.0.1:4188.
+You can also open index.html directly; there are no build dependencies.
+
+This concept remains local and unpublished. A public GitHub repository and an empty Netlify project were added
+at the user’s request. The website remains unpublished. No forms, analytics,
+remote fonts, or external image requests. Phone and email links open the
+visitor's own calling/email application. No contact was initiated during QA.
+All visual assets are original SVG illustrations, labeled on the page.
+netlify.toml deliberately blocks a standard Netlify build. noindex and
+robots.txt discourage indexing; local loopback binding keeps the preview
+on this computer. These are not a substitute for hosted access control.

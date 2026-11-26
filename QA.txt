@@ -1,0 +1,30 @@
+QA — November 26, 2026
+
+Responsive layout
+Browser-rendered CSS widths: 320, 354, 390, 768, 1309, 1440 px.
+No horizontal overflow at any tested width. Desktop, tablet and mobile
+layouts checked. Mobile call bar fixed; footer includes bottom clearance.
+All images loaded. No browser console errors recorded.
+
+Accessibility
+One h1 and main landmark; section headings, navigation label, image alt text,
+visible focus, reduced-motion handling. Keyboard reached visible skip link;
+Enter navigated to main. Contact navigation and all hash targets resolved.
+Text palette checked against WCAG AA contrast threshold (4.5:1).
+Sage text darkened after a measured 4.49:1 initial result.
+Focused checks only; not a formal accessibility audit.
+
+Contact links
+All five phone links: tel:+19295364563
+Email: mailto:irynawallpapers@gmail.com
+Inspected without initiating calls or emails.
+
+Content and privacy
+Only supplied business identity, town, contact details, and services used.
+No invented credentials, pricing, guarantees, testimonials or service areas.
+Original SVG illustrations. Image disclaimer captions and the hero overlay
+were removed at the user’s request. The gallery retains its inspiration note.
+No external image/font requests, analytics, forms, business photos or address.
+Public GitHub source and empty Netlify project added at user request.
+No website deployment created.
+Loopback-only local server. Standard Netlify build deliberately blocked.

@@ -1,0 +1,3 @@
+[build]
+command = "echo Local-only unpublished concept; exit 1"
+publish = "."
